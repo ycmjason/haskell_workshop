@@ -1,9 +1,8 @@
-divisibleBy :: Int -> Int -> Bool
-divisibleBy = error "TODO: implement this function"
+module Challenges03 where
 
--- isPrime ::
-isPrime = error "TODO: implement this function"
+import Challenges02(isPrime)
 
+-- isPrime is imported from Challenges02, you may use it
 -- generatePrimes ::
 generatePrimes = error "TODO: implement this function"
 

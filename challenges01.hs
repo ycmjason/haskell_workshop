@@ -1,3 +1,4 @@
+module Challenges01 where
 isFifteen :: Int -> Char
 isFifteen = error "TODO: implement this function"
 
