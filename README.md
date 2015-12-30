@@ -3,10 +3,13 @@
 
 # Way to use Test.hs
 run the following command to test all challenges:
-```runghc Test.hs```
+...```runghc Test.hs```
+
 run the following command to test challenge 1:
-```runghc Test.hs 1```
+...```runghc Test.hs 1```
+
 run the following command to test challenge 2:
-```runghc Test.hs 1```
+...```runghc Test.hs 2```
+
 run the following command to test challenge 3:
-```runghc Test.hs 1```
+...```runghc Test.hs 3```
