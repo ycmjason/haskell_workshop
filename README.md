@@ -9,6 +9,13 @@
 
 After installing brew, Just do ```brew install ghc```
 
+## Linux
+### apt-get
+```apt-get install ghc```
+
+## Other platforms
+Please go to [https://www.haskell.org/downloads](https://www.haskell.org/downloads) for more information.
+
 # Way to use Test.hs
 run the following command to test all challenges:
 ```runghc Test.hs```
