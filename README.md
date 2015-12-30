@@ -1,22 +1,23 @@
 # Haskell workshop for CAL
+## Slides
 [Slides](https://docs.google.com/presentation/d/1SdPJRyJE2ux75ZBH_iuGdew-t3oUT2GzeeKuSiKhJ_Q/edit?usp=sharing)
 
-# Install Haskell
-## Mac
-### Brew
+## Install Haskell
+### Mac
+#### Brew
 1. Go to [http://brew.sh/](http://brew.sh/)
 1. Follow the instruction to install Brew
 
 After installing brew, Just do ```brew install ghc```
 
-## Linux
-### apt-get
+### Linux
+#### apt-get
 ```apt-get install ghc```
 
-## Other platforms
+### Other platforms
 Please go to [https://www.haskell.org/downloads](https://www.haskell.org/downloads) for more information.
 
-# Way to use Test.hs
+## Way to use Test.hs
 run the following command to test all challenges:
 ```runghc Test.hs```
 
