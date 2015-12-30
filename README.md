@@ -5,14 +5,5 @@
 run the following command to test all challenges:
 ```runghc Test.hs```
 
-run the following command to test challenge 1:
-
+run the following command to test a single challenge (in this case challenge 1):
 ```runghc Test.hs 1```
-
-run the following command to test challenge 2:
-
-```runghc Test.hs 2```
-
-run the following command to test challenge 3:
-
-```runghc Test.hs 3```
